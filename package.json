@@ -1,0 +1,19 @@
+{
+  "name": "npm-init-package",
+  "version": "1.0.0",
+  "description": "package package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quickfix-aws/aws-codepipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quickfix-aws/aws-codepipeline/issues"
+  },
+  "homepage": "https://github.com/quickfix-aws/aws-codepipeline#readme"
+}
